@@ -23,6 +23,12 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
+.container {
+    max-width: 330px;
+    margin: 0 auto; 
+    padding: 0 1rem; 
+}
+
 p,
 h1,
 h2,
